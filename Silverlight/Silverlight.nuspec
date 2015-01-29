@@ -3,9 +3,9 @@
   <metadata>
     <id>Silverlight</id>
     <title>Microsoft Silverlight</title>
-    <version>5.0</version>
+    <version>5.0.2</version>
     <authors>Microsoft</authors>
-    <owners>Elliando Dias</owners>
+    <owners>Elliando Dias, John Selkirk</owners>
     <summary>Silverlight is a powerful development tool for creating engaging, interactive user experiences for Web and mobile applications</summary>
     <description>Silverlight is a powerful development tool for creating engaging, interactive user experiences for Web and mobile applications</description>
     <projectUrl>https://www.microsoft.com/silverlight/</projectUrl>
