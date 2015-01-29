@@ -13,7 +13,7 @@
     <copyright>Copyright 2012 Microsoft</copyright>
     <licenseUrl>http://www.microsoft.com/getsilverlight/get-started/install/license.aspx?v=5.0.61118.0</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://www.microsoft.com/silverlight/fw/logoSilverlight.jpg</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/TomOne/various/7d8efc93b6bbc228d9ccd823da01d2fcbcafb375/silverlight.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
