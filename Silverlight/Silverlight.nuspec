@@ -3,7 +3,7 @@
   <metadata>
     <id>Silverlight</id>
     <title>Microsoft Silverlight</title>
-    <version>5.0.2</version>
+    <version>5.1.41212.0</version>
     <authors>Microsoft</authors>
     <owners>Elliando Dias, John Selkirk</owners>
     <summary>Silverlight is a powerful development tool for creating engaging, interactive user experiences for Web and mobile applications</summary>
@@ -11,7 +11,7 @@
     <projectUrl>https://www.microsoft.com/silverlight/</projectUrl>
     <tags>Silverlight microsoft</tags>
     <copyright>Copyright 2012 Microsoft</copyright>
-    <licenseUrl>http://www.microsoft.com/getsilverlight/get-started/install/license.aspx?v=5.0.61118.0</licenseUrl>
+    <licenseUrl>http://www.microsoft.com/getsilverlight/get-started/install/license.aspx?v=5.1.41212.0</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/TomOne/various/7d8efc93b6bbc228d9ccd823da01d2fcbcafb375/silverlight.png</iconUrl>
     <!--<dependencies>
