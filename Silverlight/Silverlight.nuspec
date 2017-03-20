@@ -9,7 +9,6 @@
 	<projectUrl>https://github.com/johnselkirk/chocolatey-packages</projectUrl>
 	<summary>Silverlight is a powerful development tool for creating engaging, interactive user experiences for Web and mobile applications</summary>
     <description>Silverlight is a powerful development tool for creating engaging, interactive user experiences for Web and mobile applications</description>
-    <projectUrl>https://www.microsoft.com/silverlight/</projectUrl>
     <tags>Silverlight microsoft admin</tags>
     <copyright>Copyright 2012 Microsoft</copyright>
     <licenseUrl>http://www.microsoft.com/getsilverlight/get-started/install/license.aspx?v=5.1.50905.0</licenseUrl>
