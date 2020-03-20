@@ -1,3 +1,7 @@
+Import-Module ServerManager
+
+Install-WindowsFeature Web-Server,Web-WebServer
+
 $packageName = 'iisnode'
 $installerType = 'msi'
 $url = 'https://github.com/Azure/iisnode/releases/download/v0.2.26/iisnode-full-v0.2.26-x86.msi'
