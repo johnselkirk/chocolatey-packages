@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>iisnode</id>
+    <title>iisnode</title>
+    <version>0.2.26</version>
+    <authors>Microsoft</authors>
+	<owners>John Selkirk</owners>
+	<projectUrl>https://github.com/johnselkirk/chocolatey-packages</projectUrl>
+	<summary>iisnode provides the ability to run node in IIS</summary>
+    <description>iisnode provides the ability to run node in IIS</description>
+    <tags>iisnode microsoft admin</tags>
+    <copyright>Copyright 2011 Microsoft</copyright>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl></iconUrl>
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes>https://github.com/johnselkirk/chocolatey-packages/blob/master/iisnode/release-notes.md</releaseNotes>
+  </metadata>
+</package>
