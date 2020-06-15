@@ -1,5 +1,9 @@
 #Release Notes#
 
+#5.1.50918.0 (January 15, 2019)
+
+Upgraded to version [5.1.50918.0](https://www.microsoft.com/getsilverlight/locale/en-us/html/Microsoft%20Silverlight%20Release%20History.htm#SL_5_1_50918)
+
 ##5.1.50907.0 (June 13, 2017)
 
 Upgraded to version [5.1.50907.0](https://www.microsoft.com/getsilverlight/locale/en-us/html/Microsoft%20Silverlight%20Release%20History.htm#SL_5_1_50907)
