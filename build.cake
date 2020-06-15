@@ -7,6 +7,9 @@ Task("Default")
   var chocolateyPackSettings   = new ChocolateyPackSettings {};
   var nuspecFiles = GetFiles("Silverlight/Silverlight.nuspec");
   ChocolateyPack(nuspecFiles, chocolateyPackSettings);
+
+  nuspecFiles = GetFiles("iisnode/iisnode.nuspec");
+  ChocolateyPack(nuspecFiles, chocolateyPackSettings);
 });
 
 RunTarget(target);

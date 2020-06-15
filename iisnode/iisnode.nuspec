@@ -5,18 +5,22 @@
     <title>iisnode</title>
     <version>0.2.26</version>
     <authors>Microsoft</authors>
-	<owners>John Selkirk</owners>
-	<projectUrl>https://github.com/johnselkirk/chocolatey-packages</projectUrl>
-	<summary>iisnode provides the ability to run node in IIS</summary>
+    <owners>John Selkirk</owners>
+    <projectUrl>https://github.com/Azure/iisnode</projectUrl>
+    <packageSourceUrl>https://github.com/johnselkirk/chocolatey-packages</packageSourceUrl>
+    <summary>iisnode provides the ability to run node in IIS</summary>
     <description>iisnode provides the ability to run node in IIS</description>
     <tags>iisnode microsoft admin</tags>
     <copyright>Copyright 2011 Microsoft</copyright>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl></iconUrl>
+    <!--iconUrl></iconUrl-->
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
     <releaseNotes>https://github.com/johnselkirk/chocolatey-packages/blob/master/iisnode/release-notes.md</releaseNotes>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>
